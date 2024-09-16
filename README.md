@@ -117,3 +117,19 @@ Before starting, make sure to **uninstall the stock apps** that you are replacin
 ## 🔧 Conclusion
 
 With these modified versions, you can now enjoy social media without ads or viral content, with full control over what you want to see. Use these tools to save time and create a healthier social media experience!
+
+---
+
+# Current Situation
+
+Currently, managing distractions on social media is more accessible on Android thanks to solutions like alternative APKs and modified applications that allow users to personalize their experience and limit distractions. However, on Apple iOS, the options are much more restricted due to the strict App Store regulations, making it difficult to modify app features to avoid addictive behaviors.
+
+## 🔓 Proposed Solution
+
+To address these limitations, a system of open bundles for apps is proposed, similar to the APK system on Android. This system would allow users to download modified versions of apps, excluding addictive features such as infinite content feeds or excessive notifications. Additionally, creating an alternative app store or app distribution system could provide more granular control for users while maintaining high security standards.
+
+## Conclusion
+
+To make this solution a reality, the EU could introduce standards for app distribution platforms, ensuring better user control while preventing addictive practices. This approach would foster a balanced regulation between user freedom and security.
+
+To support this initiative, you can sign the petition online: ***.

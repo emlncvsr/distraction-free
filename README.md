@@ -1,17 +1,17 @@
 
-# ðŸŒ Distraction Free
+# 🌐 Distraction Free
 
 This guide explains how to install modified versions of your favorite apps to remove ads, short content (like Shorts and For You), and disable distracting features for each application.
 
-## ðŸ“¦ Prerequisites
+## 📦 Prerequisites
 
 Before starting, make sure to **uninstall the stock apps** that you are replacing with the ReVanced or Distraction Free versions, otherwise, the installation process might fail.
 
 ---
 
-## ðŸ› ï¸ Twitter ReVanced
+## 🛠️ Twitter ReVanced
 
-### ðŸ”— **Installation Steps:**
+### 🔗 **Installation Steps:**
 
 1. **Download and install ReVanced Manager**
    - Go to [ReVanced.app](https://revanced.app) and download **ReVanced Manager**.
@@ -29,13 +29,13 @@ Before starting, make sure to **uninstall the stock apps** that you are replacin
    - Go to **Settings** -> **Piko** -> **Timeline** and check **"Remove Immersive Player"**.
    - In **Customization**, tap on **Timeline Tabs** and select **"Remove 'For You'"**.
 
-ðŸŽ‰ **Twitter ReVanced is now installed and ready for a distraction-free experience!**
+🎉 **Twitter ReVanced is now installed and ready for a distraction-free experience!**
 
 ---
 
-## ðŸŽ¥ YouTube ReVanced
+## 🎥 YouTube ReVanced
 
-### ðŸ”— **Installation Steps:**
+### 🔗 **Installation Steps:**
 
 1. **Download and install ReVanced Manager**
    - Download ReVanced Manager from [ReVanced.app](https://revanced.app).
@@ -53,13 +53,13 @@ Before starting, make sure to **uninstall the stock apps** that you are replacin
    - You can use [YouTube ReVanced Extended](#), which only requires installing the APK and **MicroG**.
    - **Configure the same settings** as in the ReVanced method to disable Shorts.
 
-ðŸŽ‰ **YouTube ReVanced/Extended is now installed without ads or short videos!**
+🎉 **YouTube ReVanced/Extended is now installed without ads or short videos!**
 
 ---
 
-## ðŸ› ï¸ Reddit ReVanced Extended
+## 🛠️ Reddit ReVanced Extended
 
-### ðŸ”— **Installation Steps:**
+### 🔗 **Installation Steps:**
 
 1. **Download and install ReVanced Manager**
    - Download ReVanced Manager from [ReVanced.app](https://revanced.app).
@@ -79,13 +79,13 @@ Before starting, make sure to **uninstall the stock apps** that you are replacin
    - Download the APK directly from [Reddit ReVanced Extended](https://revanced.net/revanced-reddit-extended).
    - **Apply the same settings** as in the ReVanced method to hide subreddit suggestions.
 
-ðŸŽ‰ **Reddit ReVanced Extended is now optimized for a clean, distraction-free experience!**
+🎉 **Reddit ReVanced Extended is now optimized for a clean, distraction-free experience!**
 
 ---
 
-## ðŸŽµ TikTok ReVanced
+## 🎵 TikTok ReVanced
 
-### ðŸ”— **Installation Steps:**
+### 🔗 **Installation Steps:**
 
 1. **Download and install ReVanced Manager**
    - Go to [ReVanced.app](https://revanced.app) and download ReVanced Manager.
@@ -96,13 +96,13 @@ Before starting, make sure to **uninstall the stock apps** that you are replacin
 3. **Patch TikTok with ReVanced**
    - Select the TikTok APK in **Storage**, apply the patch, then install.
 
-ðŸŽ‰ **TikTok ReVanced is now installed! Enjoy a TikTok experience without distractions!**
+🎉 **TikTok ReVanced is now installed! Enjoy a TikTok experience without distractions!**
 
 ---
 
-## ðŸ“¸ Instagram Distraction Free
+## 📸 Instagram Distraction Free
 
-### ðŸ”— **Installation Steps:**
+### 🔗 **Installation Steps:**
 
 1. **Download and install Instagram Distraction Free**
    - Download the latest version from [Distraction Free Apps](https://www.distractionfreeapps.com/download.html).
@@ -110,10 +110,10 @@ Before starting, make sure to **uninstall the stock apps** that you are replacin
 2. **Configure the settings**
    - Go to **Profile** -> **Three-line menu** -> **Distraction Free Settings** to enable or disable distractions as needed.
 
-ðŸŽ‰ **Instagram is now distraction-free, and you can customize the options to your preference!**
+🎉 **Instagram is now distraction-free, and you can customize the options to your preference!**
 
 ---
 
-## ðŸ”§ Conclusion
+## 🔧 Conclusion
 
 With these modified versions, you can now enjoy social media without ads or viral content, with full control over what you want to see. Use these tools to save time and create a healthier social media experience!

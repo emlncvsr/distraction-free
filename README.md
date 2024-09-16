@@ -114,13 +114,7 @@ Before starting, make sure to **uninstall the stock apps** that you are replacin
 
 ---
 
-## 🔧 Conclusion
-
-With these modified versions, you can now enjoy social media without ads or viral content, with full control over what you want to see. Use these tools to save time and create a healthier social media experience!
-
----
-
-# Current Situation
+# Compatibility
 
 Currently, managing distractions on social media is more accessible on Android thanks to solutions like alternative APKs and modified applications that allow users to personalize their experience and limit distractions. However, on Apple iOS, the options are much more restricted due to the strict App Store regulations, making it difficult to modify app features to avoid addictive behaviors.
 

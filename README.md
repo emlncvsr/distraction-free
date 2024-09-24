@@ -11,13 +11,13 @@ The Windows `hosts` file allows you to block websites by redirecting their addre
 
 #### **Installation Steps:**
 
-1. **Download and run the `hosts_management.bat` script**
+1. **Download and run the `hosts_management.exe`**
 2. **Select categories of sites to block**
 3. **Optionally hide and lock the Hosts file**
 
 #### **Uninstallation Steps:**
 
-1. **Run the `hosts_management.bat` script**
+1. **Run the `hosts_management.exe`**
 2. **Select the uninstallation option**
 3. **The `hosts` file will be cleared, and all permissions will be restored**
 

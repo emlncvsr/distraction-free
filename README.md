@@ -3,104 +3,95 @@
 
 This guide explains how to install modified versions of your favorite apps to remove ads, short content (like Shorts and For You), and disable distracting features for each application.
 
-## 📦 Prerequisites
+## 🖥️ Windows – Managing Distractions
+
+### 1. **Blocking Websites via the Hosts File**
+
+The Windows `hosts` file allows you to block websites by redirecting their address to `127.0.0.1`. The following script lets you add distracting sites to this list, block them, and protect the `hosts` file from further modifications.
+
+#### **Installation Steps:**
+
+1. **Download and run the `hosts_management.bat` script**
+2. **Select categories of sites to block**
+3. **Optionally hide and lock the Hosts file**
+
+#### **Uninstallation Steps:**
+
+1. **Run the `hosts_management.bat` script**
+2. **Select the uninstallation option**
+3. **The `hosts` file will be cleared, and all permissions will be restored**
+
+🎉 **Your `hosts` file is now effectively managed to block distractions!**
+
+---
+
+### 2. **Unhook for YouTube**
+
+If you want to keep using YouTube without being distracted by recommendations, Shorts, or trending videos, the **Unhook** extension for Google Chrome is an excellent solution.
+
+#### 🔗 **Unhook Installation:**
+1. **Add Unhook to your browser**:
+   - Go to the [Chrome Web Store](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) and install **Unhook – Remove YouTube Recommended Videos**.
+2. **Customize the extension's settings**:
+   - In the Unhook settings, you can hide recommended videos, Shorts, the "Up Next" section, and more.
+
+🎉 **YouTube is now free from distracting features, thanks to Unhook!**
+
+---
+
+## 📦 Android – Removing Distractions from Apps
+
+### 📦 Prerequisites
 
 Before starting, make sure to **uninstall the stock apps** that you are replacing with the ReVanced or Distraction Free versions, otherwise, the installation process might fail.
 
 ---
 
-## 🛠️ Twitter ReVanced
+### 🛠️ Twitter ReVanced
 
 ### 🔗 **Installation Steps:**
 
 1. **Download and install ReVanced Manager**
-   - Go to [ReVanced.app](https://revanced.app) and download **ReVanced Manager**.
-   - Install it on your device.
+   - Go to [ReVanced.app](https://revanced.app) and download the **ReVanced Manager**.
 
 2. **Download the Twitter APK**
-   - Open ReVanced Manager and go to **Patcher** -> **Select an application** -> Search for **Twitter**.
-   - Download the APK from **APKMirror** (version with "(nodpi)" in the title).
+   - Use ReVanced Manager to patch the Twitter APK from **APKMirror**.
 
-3. **Patch Twitter with ReVanced**
-   - Select the downloaded APK in **Select an application** -> **Storage**.
-   - Tap **Patch** and install the app.
+3. **Patch and customization**
+   - Apply the patch, then disable distracting features through ReVanced settings.
 
-4. **Additional steps after installation**
-   - Go to **Settings** -> **Piko** -> **Timeline** and check **"Remove Immersive Player"**.
-   - In **Customization**, tap on **Timeline Tabs** and select **"Remove 'For You'"**.
-
-🎉 **Twitter ReVanced is now installed and ready for a distraction-free experience!**
+🎉 **Twitter ReVanced is installed without distractions!**
 
 ---
 
-## 🎥 YouTube ReVanced
-
-### 🔗 **Installation Steps:**
+### 🎥 YouTube ReVanced
 
 1. **Download and install ReVanced Manager**
-   - Download ReVanced Manager from [ReVanced.app](https://revanced.app).
+   - Go to [ReVanced.app](https://revanced.app) to download **ReVanced Manager**.
 
 2. **Download the YouTube APK**
-   - Use ReVanced Manager to patch the YouTube APK from **APKMirror** (version with "(nodpi)").
+   - Patch the YouTube APK available from **APKMirror**.
 
-3. **Patch YouTube with ReVanced**
-   - Select the APK in **Storage**, apply the patch, and install.
+3. **Patch and customization**
+   - Apply the patches and disable Shorts via ReVanced settings.
 
-4. **Additional steps after installation**
-   - Go to **Settings** -> **ReVanced Settings** -> **Shorts** and **enable all switches** to disable Shorts.
-
-#### **Alternative: YouTube ReVanced Extended**
-   - You can use [YouTube ReVanced Extended](#), which only requires installing the APK and **MicroG**.
-   - **Configure the same settings** as in the ReVanced method to disable Shorts.
-
-🎉 **YouTube ReVanced/Extended is now installed without ads or short videos!**
+🎉 **YouTube ReVanced is now free of ads and short videos!**
 
 ---
 
-## 🛠️ Reddit ReVanced Extended
-
-### 🔗 **Installation Steps:**
+### 🛠️ Reddit ReVanced Extended
 
 1. **Download and install ReVanced Manager**
    - Download ReVanced Manager from [ReVanced.app](https://revanced.app).
 
 2. **Download the Reddit APK**
-   - Patch Reddit with ReVanced by getting the APK from **APKMirror** (version with "(nodpi)").
+   - Patch Reddit using the APK available on **APKMirror**.
 
-3. **Patch Reddit with ReVanced**
-   - Select the Reddit APK, apply the patch, and install.
-
-4. **Additional steps after installation**
-   - Go to **Settings** -> **ReVanced Settings**:
-     - **Unsubscribe from all subreddits**.
-     - Hide unwanted buttons in **Customization**.
-
-#### **Alternative: Reddit ReVanced Extended**
-   - Download the APK directly from [Reddit ReVanced Extended](https://revanced.net/revanced-reddit-extended).
-   - **Apply the same settings** as in the ReVanced method to hide subreddit suggestions.
-
-🎉 **Reddit ReVanced Extended is now optimized for a clean, distraction-free experience!**
+🎉 **Reddit is now optimized for a distraction-free experience!**
 
 ---
 
-## 🎵 TikTok ReVanced
-
-### 🔗 **Installation Steps:**
-
-1. **Download and install ReVanced Manager**
-   - Go to [ReVanced.app](https://revanced.app) and download ReVanced Manager.
-
-2. **Download the TikTok APK**
-   - Use ReVanced Manager to patch the TikTok APK available on **APKMirror**.
-
-3. **Patch TikTok with ReVanced**
-   - Select the TikTok APK in **Storage**, apply the patch, then install.
-
-🎉 **TikTok ReVanced is now installed! Enjoy a TikTok experience without distractions!**
-
----
-
-## 📸 Instagram Distraction Free
+### 📸 Instagram Distraction Free
 
 ### 🔗 **Installation Steps:**
 
@@ -114,16 +105,26 @@ Before starting, make sure to **uninstall the stock apps** that you are replacin
 
 ---
 
-# Compatibility
+### 🎵 TikTok ReVanced
 
-Currently, managing distractions on social media is more accessible on Android thanks to solutions like alternative APKs and modified applications that allow users to personalize their experience and limit distractions. However, on Apple iOS, the options are much more restricted due to the strict App Store regulations, making it difficult to modify app features to avoid addictive behaviors.
+If you find TikTok distracting but want to continue using it without ads and other attention-grabbing elements, you can use **TikTok ReVanced**.
 
-## 🔓 Proposed Solution
+### 🔗 **Installation Steps:**
 
-To address these limitations, a system of open bundles for apps is proposed, similar to the APK system on Android. This system would allow users to download modified versions of apps, excluding addictive features such as infinite content feeds or excessive notifications. Additionally, creating an alternative app store or app distribution system could provide more granular control for users while maintaining high security standards.
+1. **Download and install ReVanced Manager**
+   - Go to [ReVanced.app](https://revanced.app) and download ReVanced Manager.
+
+2. **Download the TikTok APK**
+   - Use ReVanced Manager to patch the TikTok APK from **APKMirror**.
+
+3. **Patch and customization**
+   - Select the TikTok APK in **Storage**, apply the patch, and install.
+
+🎉 **TikTok ReVanced is now installed! Enjoy TikTok without distractions!**
+
+---
 
 ## Conclusion
 
-To make this solution a reality, the EU could introduce standards for app distribution platforms, ensuring better user control while preventing addictive practices. This approach would foster a balanced regulation between user freedom and security.
-
-To support this initiative, you can sign the petition online: ***.
+With solutions for **Windows** and **Android**, you can disable distracting features and block access to unwanted content while continuing to use your favorite apps. Whether by modifying the `hosts` file, using extensions like **Unhook**, or patching your apps with **ReVanced**, these tools help you take control of your attention and productivity.
+"""

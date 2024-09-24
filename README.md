@@ -1,7 +1,7 @@
 
 # 🌐 Distraction Free
 
-This guide explains how to install modified versions of your favorite apps to remove ads, short content (like Shorts and For You), and disable distracting features for each application.
+This guide explains how to install modified versions of your favorite apps to remove ads, short content (like Shorts and For You), and disable distracting features for each application, as well as addiction such as Gambling, Porn, Social Media...
 
 ## 🖥️ Windows – Managing Distractions
 
@@ -127,4 +127,3 @@ If you find TikTok distracting but want to continue using it without ads and oth
 ## Conclusion
 
 With solutions for **Windows** and **Android**, you can disable distracting features and block access to unwanted content while continuing to use your favorite apps. Whether by modifying the `hosts` file, using extensions like **Unhook**, or patching your apps with **ReVanced**, these tools help you take control of your attention and productivity.
-"""
